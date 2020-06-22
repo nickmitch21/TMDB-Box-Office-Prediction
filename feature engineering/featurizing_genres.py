@@ -16,7 +16,7 @@ df = pd.DataFrame(data=data)
 movie = ia.get_movie(df['imdb_id'][2][2:])
 
 # Removing irrelevant fields
-df_1 = df.drop(columns=['belongs_to_collection', 'homepage', 'poster_path', 'original_title', 'overview','tagline','Keywords', 'popularity'])
+df_1 = df.drop(columns=['homepage', 'poster_path', 'original_title', 'overview','tagline','Keywords', 'popularity', 'status'])
 # print(df_1)
 
 # Featurizing Columns - genres
