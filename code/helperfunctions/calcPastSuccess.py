@@ -2,8 +2,8 @@ import pandas as pd
 import imdb
 import time
 
-
-def getPastSuccess(movie, ia):
+#function to get past movie success
+def calcPastSuccess(movie, ia):
     start_time = time.time()
     for i in range(8):
         actor = movie['cast'][i]
