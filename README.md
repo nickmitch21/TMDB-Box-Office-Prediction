@@ -1,7 +1,7 @@
 # Box-Office-Prediction-Model
 
 ## Introduction
-This project was completed in full by Nick Mitchell and Cole Leppert. This is the first full scale machine learning project that either of us had ever worked on and proved to be an incredibly useful learning experience. We learned a lot as we went and truly gave it our best efforts, however, mistakes are a natural part of the learning process and we likely made some. All feedback and constructive criticism is nt onlt welcomed, but encouraged.
+This project was completed in full by Nick Mitchell and Cole Leppert. This is the first full scale machine learning project that either of us had ever worked on and proved to be an incredibly useful learning experience. We learned a lot as we went and truly gave it our best efforts, however, mistakes are a natural part of the learning process and we likely made some. All feedback and constructive criticism is not only welcomed, but encouraged.
 
 
 ## Background
